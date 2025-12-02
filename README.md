@@ -1,12 +1,12 @@
-# GamePulse 🎮
+# Plagame 🎮
 
 A modern video game discovery platform built with Next.js 14, featuring game library management, personalized recommendations, and community features.
 
-![GamePulse Banner](/public/banner.png)
+![Plagame Banner](/public/banner.png)
 
 ## 🚀 Live Demo
 
-[GamePulse.vercel.app](https://game-pulse.vercel.app)
+[Plagame.vercel.app](https://plagame.vercel.app)
 
 ## ✨ Features
 
@@ -100,6 +100,6 @@ A modern video game discovery platform built with Next.js 14, featuring game lib
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/GamePulse-pro.git
-cd GamePulse
+git clone https://github.com/yourusername/Plagame-pro.git
+cd Plagame
 ```
