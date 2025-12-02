@@ -1,12 +1,12 @@
-# GameSphere 🎮
+# GamePulse 🎮
 
 A modern video game discovery platform built with Next.js 14, featuring game library management, personalized recommendations, and community features.
 
-![GameSphere Banner](/public/banner.png)
+![GamePulse Banner](/public/banner.png)
 
 ## 🚀 Live Demo
 
-[gamesphere.vercel.app](https://gamesphere.vercel.app)
+[GamePulse.vercel.app](https://game-pulse.vercel.app)
 
 ## ✨ Features
 
@@ -100,6 +100,6 @@ A modern video game discovery platform built with Next.js 14, featuring game lib
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gamesphere-pro.git
-cd gamesphere-pro
+git clone https://github.com/yourusername/GamePulse-pro.git
+cd GamePulse
 ```
